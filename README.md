@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Developer, Security Researcher with a passion for deveopling, on-chain development and cybersecurity, and networking. I love participating in hackathons and collaborating on innovative projects.<br>
+<br>Developer, Security Researcher with a passion for developing, on-chain development and cybersecurity, as well as networking. I love participating in hackathons and collaborating on innovative projects.<br>
 
 
 ## 🌐 Socials:
